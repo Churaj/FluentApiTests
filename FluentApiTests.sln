@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentApiTests", "FluentApiTests\FluentApiTests.csproj", "{DF74FF02-912E-4A56-8CEB-8D8CAA7E7940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentApiTests.Tests", "FluentApiTests.Tests\FluentApiTests.Tests.csproj", "{D07A5A3A-2D1B-42E4-9EE1-E35E71AFC4D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF74FF02-912E-4A56-8CEB-8D8CAA7E7940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF74FF02-912E-4A56-8CEB-8D8CAA7E7940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF74FF02-912E-4A56-8CEB-8D8CAA7E7940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF74FF02-912E-4A56-8CEB-8D8CAA7E7940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07A5A3A-2D1B-42E4-9EE1-E35E71AFC4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07A5A3A-2D1B-42E4-9EE1-E35E71AFC4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07A5A3A-2D1B-42E4-9EE1-E35E71AFC4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07A5A3A-2D1B-42E4-9EE1-E35E71AFC4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
